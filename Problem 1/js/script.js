@@ -19,4 +19,4 @@ function result(limitNumber){
 var now = getExecutionTime();
 var r = result(1000);
 alert(getExecutionTime(now)+' ms');
-alert('O resultado é: '+r);
+alert('O resultado Ã©: '+r);
